@@ -1,0 +1,17 @@
+Regole di base:
+
+Il tabellone di gioco è una griglia quadrata 9x9.
+Ogni giocatore controlla un pedone che inizia nella fila più esterna del proprio lato del tabellone.
+L'obiettivo del gioco è per i giocatori di spostare il proprio pedone fino all'ultima fila del lato opposto del tabellone.
+Durante il proprio turno, un giocatore può muovere il proprio pedone in una delle quattro direzioni cardinali (sopra, sotto, a sinistra o a destra) di una casella alla volta.
+Inoltre, un giocatore ha la possibilità di posizionare una barriera orizzontale o verticale sul tabellone per bloccare il passaggio agli avversari. Ogni giocatore dispone di un numero limitato di barriere.
+Le barriere non possono sovrapporsi, quindi è necessario fare attenzione nella loro posizione per non bloccare se stessi o gli avversari.
+Un giocatore può anche saltare sopra un pedone avversario, muovendosi in una casella adiacente ad esso.
+Strategie e complessità:
+
+Quoridor è un gioco che richiede un equilibrio tra movimento e posizionamento di barriere.
+Gli obiettivi principali sono trovare la via più breve verso la fila opposta e bloccare gli avversari per rallentare il loro progresso.
+La posizione delle barriere può essere cruciale per bloccare i percorsi degli avversari e aprirne uno per se stessi.
+L'anticipazione delle mosse degli avversari è essenziale per prendere decisioni tattiche e pianificare la strategia di gioco.
+Esistono diverse varianti di Quoridor, inclusa una versione per quattro giocatori, che richiedono ulteriori adattamenti strategici.
+Quoridor è un gioco rapido, intuitivo e coinvolgente. È facile da imparare ma difficile da padroneggiare a causa delle numerose possibilità di movimento e posizionamento delle barriere. L'uso strategico delle barriere e la capacità di anticipare le mosse degli avversari sono le chiavi per ottenere il successo nel gioco.
