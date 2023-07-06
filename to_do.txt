@@ -1,0 +1,2 @@
+-> Sistemare bug dei muri (wa,hn)
+-> Le euristiche fanno schifo
